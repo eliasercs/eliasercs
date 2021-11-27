@@ -5,11 +5,11 @@
 <a href="https://instagram.com/eliasercs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eliasercs" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasercs&show_icons=true&locale=en&layout=compact" alt="eliasercs" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasercs&show_icons=true&locale=en&layout=compact" alt="eliasercs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasercs&show_icons=true&locale=en" alt="eliasercs" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasercs&show_icons=true&locale=en" alt="eliasercs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasercs&" alt="eliasercs" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasercs&" alt="eliasercs" /></p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
